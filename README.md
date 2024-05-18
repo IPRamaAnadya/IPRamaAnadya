@@ -1,7 +1,30 @@
-- 👋 Hi, I’m I Putu Rama Anadya (@IPRamaAnadya)
-- 👀 I’m interested in Android App Developer, Machine Learning, and Frontend & Backend Web Developer
-- 🌱 I’m currently learning at Computer Science, Udayana University
-- 📫 Contact me at Gusrama18@gmail.com
+Hi, I’m I Putu Rama Anadya (@IPRamaAnadya)
+
+** Mobile Engineer (Android/iOS/Multiplatform)**
+
+I'm a passionate mobile engineer with experience in developing applications for various platforms. I'm always eager to learn new technologies and improve my skills. 
+
+** Previously:**
+* Have experienced
+* Completed 12+ projects (mention specific areas if possible)
+* Graduated from Udayana University (mention your degree if applicable)
+* Have experience working with Indonesian and Japanese companies.
+
+** I'm interested in:**
+
+* Android App Development
+* IOS App Development
+* Multiplatform App Development
+* Machine Learning
+* Frontend & Backend Web Development
+
+**✉️ Get in touch:**
+
+* Email: Gusrama18@gmail.com
+* WhatsApp: [+6287862175374](https://wa.me/6287862175374)
+* Instagram: [ip.rama](https://www.instagram.com/ip.rama/?hl=id)
+* LinkedIn: [I Putu Rama Anadya](https://www.linkedin.com/in/i-putu-rama-anadya-448a60174)
+
 
 <!---
 IPRamaAnadya/IPRamaAnadya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
