@@ -1,35 +1,75 @@
-Hi, I’m I Putu Rama Anadya (@IPRamaAnadya)
+# Hi, I'm I Putu Rama Anadya 👋  
+### Mobile Engineer | Fullstack Developer | Deployment-Oriented Engineer
 
-** Mobile Engineer (Android/iOS/Multiplatform)**
+I’m a passionate engineer specializing in mobile development (Android, iOS, Multiplatform) with strong experience in backend systems and production deployment.
 
-I'm a passionate mobile engineer with experience in developing applications for various platforms. I'm always eager to learn new technologies and improve my skills. 
+I don’t just build apps — I ship and deploy them.
 
-** Previously:**
-* Have experienced
-* Completed 12+ projects (mention specific areas if possible)
-* Graduated from Udayana University (mention your degree if applicable)
-* Have experience working with Indonesian and Japanese companies.
+---
 
-** I'm interested in:**
+## 🚀 What I Do
 
-* Android App Development
-* IOS App Development
-* Multiplatform App Development
-* Machine Learning
-* Frontend & Backend Web Development
+### 📱 Mobile Development
+- Android (Kotlin / Java)
+- iOS (Swift)
+- Multiplatform Development
+- Clean Architecture & Scalable Codebase
+- API Integration
+- App Optimization & Performance Tuning
 
-**✉️ Get in touch:**
+### 🌐 Backend & Web
+- Node.js
+- REST API Development
+- Prisma ORM
+- PostgreSQL
+- Authentication & Role-based Access
+- Production-ready backend systems
 
-* Email: Gusrama18@gmail.com
-* WhatsApp: [+6287862175374](https://wa.me/6287862175374)
-* Instagram: [ip.rama](https://www.instagram.com/ip.rama/?hl=id)
-* LinkedIn: [I Putu Rama Anadya](https://www.linkedin.com/in/i-putu-rama-anadya-448a60174)
+### ⚙️ DevOps & Deployment
+- Ubuntu VPS configuration
+- Nginx reverse proxy setup
+- SSL with Certbot
+- PM2 process management
+- Database management & migrations
+- Server optimization for low-RAM environments
+- CI/CD basic workflows
 
+---
 
-<!---
-IPRamaAnadya/IPRamaAnadya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💼 Experience
+
+- Completed 12+ production-level projects
+- Experience working with Indonesian and Japanese companies
+- Graduate of Udayana University
+- Experienced in handling end-to-end development:
+  - Planning
+  - Development
+  - Deployment
+  - Maintenance
+
+---
+
+## 🎯 Currently Interested In
+
+- Advanced Mobile Architecture
+- Backend Scalability
+- System Design
+- Machine Learning Integration
+- Fullstack System Optimization
+- Cloud Infrastructure
+
+---
+
+## ✉️ Get in Touch
+
+- 📧 Email: iputuramaanadya@gmail.com
+- 💬 WhatsApp: https://wa.me/6287862175374
+- 📸 Instagram: https://www.instagram.com/ip.rama/
+- 💼 LinkedIn: https://www.linkedin.com/in/i-putu-rama-anadya-448a60174
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
 <a href="https://github.com/IPRamaAnadya">
